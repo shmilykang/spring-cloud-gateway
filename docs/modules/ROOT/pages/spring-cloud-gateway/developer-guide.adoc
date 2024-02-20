@@ -32,7 +32,7 @@ public class MyRoutePredicateFactory extends AbstractRoutePredicateFactory<MyRou
     }
 
     public static class Config {
-        //Put the configuration properties for your filter here
+        //Put the configuration properties for your predicate here
     }
 
 }
